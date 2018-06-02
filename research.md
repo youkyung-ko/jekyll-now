@@ -3,13 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
+Under construction...
 
-Some information about you!
+### Globular Clusters
 
-### More Information
+### Virgo Cluster
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Asymptotic Giant Branch Stars
