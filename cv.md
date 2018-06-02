@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Under construction...
-
 ### Education
 2010 Mar - 2017 Aug: Integrated M.S.-Ph.D in Astronomy, Seoul National University (SNU), Korea (Advisor: Prof. Myung Gyoon Lee)
 
