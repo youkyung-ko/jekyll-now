@@ -5,19 +5,16 @@ permalink: /cv/
 ---
 
 ### Education
-2010 Mar - 2017 Aug: Integrated M.S.-Ph.D in Astronomy, Seoul National University (SNU), Korea (Advisor: Prof. Myung Gyoon Lee)
-
-2006 Mar - 2010 Feb: B.S. in Astronomy, SNU, Korea 
+* 2010 Mar - 2017 Aug: Integrated M.S.-Ph.D in Astronomy, Seoul National University (SNU), Korea (Advisor: Prof. Myung Gyoon Lee)
+* 2006 Mar - 2010 Feb: B.S. in Astronomy, SNU, Korea 
 
 ### Positions
-2017 Nov - Present: Post Doc, Department of Astronomy at Peking University / Kavli Institute for Astronomy and Astrophysics
-
-2017 Sep - 2017 Oct: Post Doc, Department of Physics and Astronomy
+* 2017 Nov - Present: Post Doc, Department of Astronomy at Peking University / Kavli Institute for Astronomy and Astrophysics
+* 2017 Sep - 2017 Oct: Post Doc, Department of Physics and Astronomy
 
 ### Research & Teaching Experiences
-2013 - 2017: Research Assistant, Department of Physics and Astronomy, SNU, Korea
-
-2010: Teaching Assistant, Department of Physics and Astronomy, SNU, Korea (Astronomy & Astronomy Lab.)
+* 2013 - 2017: Research Assistant, Department of Physics and Astronomy, SNU, Korea
+* 2010: Teaching Assistant, Department of Physics and Astronomy, SNU, Korea (Astronomy & Astronomy Lab.)
 
 ### Observing Experiences
 * CFHT/MegaCam imaging
