@@ -5,8 +5,9 @@ permalink: /research/
 ---
 Under construction...
 
-### Globular Clusters
-
-### Virgo Cluster
+### Globular Clusters in the Virgo Cluster
+* Globular cluster systems in early-type galaxies
+* Intracluster globular clusters
 
 ### Asymptotic Giant Branch Stars
+
