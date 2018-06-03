@@ -12,5 +12,5 @@ You can see my all refereed articles via ADS [here](http://adsabs.harvard.edu/cg
 * Globular cluster systems in early-type galaxies
 * Intracluster globular clusters
 
-### Asymptotic Giant Branch Stars
+### Asymptotic Giant Branch Stars in star clusters in the Large Magellanic Cloud
 
